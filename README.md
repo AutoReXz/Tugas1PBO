@@ -1,5 +1,5 @@
 # Tugas1PBO
 
-Galang Rakha Ahnanta\n
-123220047\n
+Galang Rakha Ahnanta
+123220047
 Praktikum Pemrograman Berorientasi Objek
